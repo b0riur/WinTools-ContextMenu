@@ -61,4 +61,3 @@ WinTools-ContextMenu/
 ## 🛡️ Licença
 
 Disponibilizado sob a [Licença MIT](LICENSE).
-```
